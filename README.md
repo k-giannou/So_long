@@ -26,7 +26,7 @@ make
 ```bash
 ./so_long heart.ber
 ````
-Move with AWSD, use esq to close the window.
+Move with AWSD, use ESC to close the window.
 
 ## LIIBFT
 Is my library.a which includes usefull functions I can use for this project.
