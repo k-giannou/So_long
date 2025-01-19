@@ -20,3 +20,5 @@ make , to compile.
 
 ## LIIBFT
 Is my library.a which includes usefull functions I can use for this project.
+
+![game](xpm/game.png)
