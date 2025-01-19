@@ -15,10 +15,18 @@ It is a very small basic 2D game, in which the main character try to escape, aft
 - Check if there’s a valid path in the map.
 - Make the player lose when they touch an enemy patrol.
 
-## RUN
-First, type make .
-Run with ./so_long heart.ber .
-Move with AWSD .
+## RUN 
+
+```bash
+git clone git@github.com:k-giannou/So_long.git
+````
+```bash
+make
+```
+```bash
+./so_long heart.ber
+````
+Move with AWSD, use esq to close the window.
 
 ## LIIBFT
 Is my library.a which includes usefull functions I can use for this project.
