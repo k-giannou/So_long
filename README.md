@@ -15,8 +15,10 @@ It is a very small basic 2D game, in which the main character try to escape, aft
 - Check if there’s a valid path in the map.
 - Make the player lose when they touch an enemy patrol.
 
-## Make
-make , to compile.
+## RUN
+First, type make
+Run with ./so_long heart.ber
+Move with AWSD
 
 ## LIIBFT
 Is my library.a which includes usefull functions I can use for this project.
